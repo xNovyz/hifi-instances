@@ -2,14 +2,14 @@
   "api": {
     "monochrome": {
       "urls": [
-        "https://ohio.monochrome.tf",
-        "https://virginia.monochrome.tf",
-        "https://oregon.monochrome.tf",
-        "https://california.monochrome.tf",
-        "https://frankfurt.monochrome.tf",
+        "https://ohio-1.monochrome.tf",
+        "https://singapore-1.monochrome.tf",
+        "https://frankfurt-1.monochrome.tf",
+        "https://eu-central.monochrome.tf",
+        "https://api.monochrome.tf",
         "https://london.monochrome.tf",
-        "https://singapore.monochrome.tf",
-        "https://jakarta.monochrome.tf"
+        "https://monochrome-api.samidy.com",
+        "https://us-west.monochrome.tf"
       ],
       "cors": false
     },
