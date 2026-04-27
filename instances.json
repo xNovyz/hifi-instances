@@ -2,7 +2,7 @@
   "api": {
     "monochrome": {
       "urls": [
-        "https://ohio-1.monochrome.tf",
+        "https://eu-central.monochrome.tf",
         "https://us-west.monochrome.tf",
         "https://monochrome-api.samidy.com"
       ],
