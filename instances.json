@@ -1,6 +1,6 @@
 {
   "api": {
-    "monitor": {
+    "monochrome": {
       "urls": [
         "https://production.hifibridge.com",
         "https://eu-central.monochrome.tf",
