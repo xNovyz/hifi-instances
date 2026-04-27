@@ -8,6 +8,7 @@
         "https://monochrome-api.samidy.com"
       ],
       "cors": false
+    }
   },
   "ui": {
     "monochrome": [
