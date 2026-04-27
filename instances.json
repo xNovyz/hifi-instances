@@ -1,41 +1,13 @@
 {
   "api": {
-    "monochrome": {
+    "custom": {
       "urls": [
+        "https://production.hifibridge.com",
         "https://eu-central.monochrome.tf",
         "https://us-west.monochrome.tf",
         "https://monochrome-api.samidy.com"
       ],
       "cors": false
-    },
-    "squid.wtf": {
-      "urls": [
-        "https://triton.squid.wtf",
-        "https://aether.squid.wtf",
-        "https://zeus.squid.wtf",
-        "https://kraken.squid.wtf",
-        "https://phoenix.squid.wtf",
-        "https://shiva.squid.wtf",
-        "https://chaos.squid.wtf"
-      ],
-      "cors": false
-    },
-    "lucida (qqdl)": {
-      "urls": [
-        "https://wolf.qqdl.site",
-        "https://maus.qqdl.site",
-        "https://vogel.qqdl.site",
-        "https://katze.qqdl.site",
-        "https://hund.qqdl.site"
-      ],
-      "cors": false
-    },
-    "kinoplus": {
-      "urls": [
-        "https://tidal.kinoplus.online/"
-      ],
-      "cors": false
-    }
   },
   "ui": {
     "monochrome": [
